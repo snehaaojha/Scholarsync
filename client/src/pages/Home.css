@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Ensure hero section covers full width and height below navbar */
+.hero-section {
+  min-height: calc(100vh - 80px); /* Adjust if your navbar is taller or shorter */
+  background: linear-gradient(to right, #e3f2fd, #ffffff); 
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #e3f2fd, #ffffff);
+  width: 100vw;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+}
