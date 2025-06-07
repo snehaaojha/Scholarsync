@@ -14,7 +14,7 @@ const domains = [
   },
   {
     title: "Engineering Scholarships",
-    description: "For students pursuing B.Tech, B.E., and related technical degrees.",
+    description: "For students pursuing B.Tech, B.E., and related technical degrees",
     link: "/scholarships/engineering",
   },
   {
