@@ -19,7 +19,7 @@ const domains = [
   },
   {
     title: "Medical Scholarships",
-    description: "Support for MBBS, BDS, and other medical stream students.",
+    description: "Support for MBBS, BDS, and other medical stream students",
     link: "/scholarships/medical",
   },
   {
